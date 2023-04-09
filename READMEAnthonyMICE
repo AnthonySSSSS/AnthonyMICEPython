@@ -1,0 +1,20 @@
+# AnthonyMICEPython
+
+Anthony  melakukan proses imputasi dan cleaning dataset dengan menggunakan MICE di python. MICE (Multiple Imputation by Chained Equations) merupakan salah satu teknik imputasi data yang digunakan untuk menangani nilai yang hilang (missing values) pada dataset. Teknik ini dapat digunakan pada berbagai jenis data, baik data numerik maupun kategorikal. Pada Python terdapat beberapa "library" yang dapat digunakan untuk melakukan MICE, antara lain:
+
+1. fancyimpute: "Library" ini menyediakan berbagai teknik imputasi, termasuk MICE, untuk menangani missing values pada dataset.
+2. sklearn.impute.IterativeImputer: "Library" ini adalah bagian dari scikit-learn dan menyediakan implementasi MICE untuk melakukan imputasi missing values pada dataset.
+3. statsmodels.imputation.mice: "Library" ini menyediakan implementasi MICE untuk model-model regresi dan analisis data yang rumit.
+
+"Library" diatas ini memudahkan pengguna Python untuk melakukan MICE dan teknik imputasi data lainnya pada dataset, sehingga memungkinkan analisis yang lebih akurat dan komprehensif.
+
+Pastikan pada python / jupyter notebook sudah memasang paket (library) berikut :
+pandas==1.5.3
+numpy==1.24.1
+matplotlib==3.6.3
+seaborn==0.12.2
+scikit-learn==1.2.0
+
+===============================
+# Keep Fighting!! Never Giveup!
+===============================
